@@ -37,5 +37,5 @@
 </div>
 
 
-<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=19FFBE&height=120&section=footer"/>
+<img width=200% src="https://capsule-render.vercel.app/api?type=waving&color=EB23A5&height=120&section=footer"/>
 
