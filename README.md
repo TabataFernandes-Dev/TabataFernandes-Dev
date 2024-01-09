@@ -11,7 +11,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TabataFernandes-Dev&show_icons=true&count_private=true&hide_border=true&title_color=ff9500&icon_color=ff9500&text_color=fffccc&bg_color=ff006f" alt="Tábata Fernandes github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabataFernandes-Dev&layout=compact&hide_border=true&title_color=ff9500&text_color=fffccc&bg_color=ff006f" />
+  <img width="46%" height="194px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabataFernandes-Dev&layout=compact&hide_border=true&title_color=ff9500&text_color=fffccc&bg_color=ff006f" />
 </div>
 
 ### Main skills:
