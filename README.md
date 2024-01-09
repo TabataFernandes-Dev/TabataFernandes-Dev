@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E058B0&size=32&center=true&vCenter=true&width=1200&lines=Oii,+meu+nome+é+Tábata+Fernandes;Formada+em+Desenvolvimento+e+Designs+Gráficos+;Sejam+bem-vindos!+%20)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TabataFernandes-Dev&bg_color=0f0f0f&color=a0f3de&line=ff29db&point=2effb9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tabatafernandes-dev&bg_color=000000&color=599348&line=800077&point=2bff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TabataFernandes-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
